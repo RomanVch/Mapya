@@ -1,0 +1,225 @@
+[
+  {
+    "country": "Россия",
+    "mainCoordinates": [63.592494, 101.637363],
+    "zoom": 3.5,
+    "idCountry": 1,
+    "activeCountry": true,
+    "city": [
+      {
+        "city": "Москва",
+        "cityCoordinates": [55.755814, 37.617635],
+        "idCity": 1,
+        "activeCity": true,
+        "office": [
+          {
+            "officeName": "Москва Кутузовский",
+            "managerName": "Махов Михаил Петрович",
+            "tel": "8800553535",
+            "email": "userName@gmail.com",
+            "officeCoordinates": [55.755814, 37.617635],
+            "idOffice": 1,
+            "activeOffice": false
+          },
+          {
+            "officeName": "Москва Киевский",
+            "managerName": "Свахов Михаил Петрович",
+            "tel": "8800777777",
+            "email": "userName@gmail.com",
+            "officeCoordinates": [55.743040, 37.565680],
+            "idOffice": 2,
+            "activeOffice": false
+          }
+        ]
+      },
+      {
+        "city": "Екатеринбург",
+        "cityCoordinates": [56.838011, 60.597465],
+        "idCity": 2,
+        "activeCity": false,
+        "office": [
+          {
+            "officeName": "Екатеринбург Центр",
+            "managerName": "Пахов Михаил Петрович",
+            "tel": "8800444444",
+            "email": "userName@gmail.com",
+            "officeCoordinates": [56.837087, 60.589796],
+            "idOffice": 1,
+            "activeOffice": false
+          },
+          {
+            "officeName": "Екатеринбург Ботаника",
+            "managerName": "Мухов Михаил Петрович",
+            "tel": "8800222222",
+            "email": "userName@gmail.com",
+            "officeCoordinates": [56.793673, 60.622637],
+            "idOffice": 2,
+            "activeOffice": false
+          }
+        ]
+      },
+      {
+        "city": "Челябинск",
+        "cityCoordinates": [55.159897, 61.402554],
+        "idCity": 3,
+        "activeCity": false,
+        "office": [
+          {
+            "officeName": "Челябинск Центр",
+            "managerName": "Сухов Михаил Петрович",
+            "tel": "88004555554",
+            "email": "userName@gmail.com",
+            "officeCoordinates": [55.159897, 61.402554],
+            "idOffice": 1,
+            "activeOffice": false
+          }
+        ]
+      },
+      {
+        "city": "Cамара",
+        "cityCoordinates": [53.195873, 50.100193],
+        "idCity": 4,
+        "activeCity": false,
+        "office": [
+          {
+            "officeName": "Cамара Центр",
+            "managerName": "Сучов Михаил Петрович",
+            "tel": "88004533554",
+            "email": "userName@gmail.com",
+            "officeCoordinates": [53.195873, 50.100193],
+            "idOffice": 1,
+            "activeOffice": false
+          }
+        ]
+      },
+      {
+        "city": "Казань",
+        "cityCoordinates": [55.796127, 49.106405],
+        "idCity": 5,
+        "activeCity": false,
+        "office": [
+          {
+            "officeName": "Казань Центр",
+            "managerName": "Бухов Михаил Петрович",
+            "tel": "88004556654",
+            "email": "userName@gmail.com",
+            "officeCoordinates": [55.796127, 49.106405],
+            "idOffice": 1,
+            "activeOffice": false
+          }
+        ]
+      }
+    ]
+  },{
+  "country": "Беларусь",
+  "mainCoordinates": [53.745479, 27.872473],
+  "zoom": 5,
+  "idCountry": 2,
+  "activeCountry": false,
+  "city": [
+    {
+      "city": "Минск",
+      "cityCoordinates": [53.904638, 27.553739],
+      "idCity": 1,
+      "activeCity": true,
+      "office": [
+        {
+          "officeName": "Минск Кутузовский",
+          "managerName": "Махов Михаил Петрович",
+          "tel": "8800553535",
+          "email": "userName@gmail.com",
+          "officeCoordinates": [53.904638, 27.553739],
+          "idOffice": 1,
+          "activeOffice": false
+        },
+        {
+          "officeName": "Минск Киевский",
+          "managerName": "Свахов Михаил Петрович",
+          "tel": "8800777777",
+          "email": "userName@gmail.com",
+          "officeCoordinates": [53.862126, 27.612279],
+          "idOffice": 2,
+          "activeOffice": false
+        }
+      ]
+    },
+    {
+      "city": "Бобруйск",
+      "cityCoordinates": [53.145592, 29.225538],
+      "idCity": 2,
+      "activeCity": false,
+      "office": [
+        {
+          "officeName": "Бобруйск Центр",
+          "managerName": "Пахов Михаил Петрович",
+          "tel": "8800444444",
+          "email": "userName@gmail.com",
+          "idOffice": 1,
+          "officeCoordinates": [53.145592, 29.225538],
+          "activeOffice": false
+        },
+        {
+          "officeName": "Бобруйск Ботаника",
+          "managerName": "Мухов Михаил Петрович",
+          "tel": "8800222222",
+          "email": "userName@gmail.com",
+          "idOffice": 2,
+          "officeCoordinates": [53.143855, 29.199736],
+          "activeOffice": false
+        }
+      ]
+    },
+    {
+      "city": "Витебск",
+      "cityCoordinates": [55.184217, 30.202869],
+      "idCity": 3,
+      "activeCity": false,
+      "office": [
+        {
+          "officeName": "Витебск Центр",
+          "managerName": "Сухов Михаил Петрович",
+          "tel": "88004555554",
+          "email": "userName@gmail.com",
+          "officeCoordinates": [55.184217, 30.202869],
+          "idOffice": 1,
+          "activeOffice": false
+        }
+      ]
+    },
+    {
+      "city": "Могилев",
+      "cityCoordinates": [53.894548, 30.330654],
+      "idCity": 4,
+      "activeCity": false,
+      "office": [
+        {
+          "officeName": "Могилев Центр",
+          "managerName": "Сучов Михаил Петрович",
+          "tel": "88004533554",
+          "email": "userName@gmail.com",
+          "officeCoordinates": [53.894548, 30.330654],
+          "idOffice": 1,
+          "activeOffice": false
+        }
+      ]
+    },
+    {
+      "city": "Гомель",
+      "cityCoordinates": [52.424160, 31.014272],
+      "idCity": 5,
+      "activeCity": false,
+      "office": [
+        {
+          "officeName": "Гомель Центр",
+          "managerName": "Бухов Михаил Петрович",
+          "tel": "88004556654",
+          "email": "userName@gmail.com",
+          "officeCoordinates": [52.424160, 31.014272],
+          "idOffice": 1,
+          "activeOffice": false
+        }
+      ]
+    }
+  ]
+}
+]
