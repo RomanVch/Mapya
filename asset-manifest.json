@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Mapya/static/css/main.971b2397.chunk.css",
+    "main.js": "/Mapya/static/js/main.4d07d916.chunk.js",
+    "main.js.map": "/Mapya/static/js/main.4d07d916.chunk.js.map",
+    "runtime-main.js": "/Mapya/static/js/runtime-main.0ffe9710.js",
+    "runtime-main.js.map": "/Mapya/static/js/runtime-main.0ffe9710.js.map",
+    "static/js/2.95419769.chunk.js": "/Mapya/static/js/2.95419769.chunk.js",
+    "static/js/2.95419769.chunk.js.map": "/Mapya/static/js/2.95419769.chunk.js.map",
+    "static/js/3.e2df4935.chunk.js": "/Mapya/static/js/3.e2df4935.chunk.js",
+    "static/js/3.e2df4935.chunk.js.map": "/Mapya/static/js/3.e2df4935.chunk.js.map",
+    "index.html": "/Mapya/index.html",
+    "static/css/main.971b2397.chunk.css.map": "/Mapya/static/css/main.971b2397.chunk.css.map",
+    "static/js/2.95419769.chunk.js.LICENSE.txt": "/Mapya/static/js/2.95419769.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/Mapya/static/media/HelveticaNeueCyr-Thin.7509330f.woff",
+    "static/media/arrDown.2f551387.svg": "/Mapya/static/media/arrDown.2f551387.svg",
+    "static/media/arrUp.8454edae.svg": "/Mapya/static/media/arrUp.8454edae.svg",
+    "static/media/elips.13321af6.svg": "/Mapya/static/media/elips.13321af6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ffe9710.js",
+    "static/js/2.95419769.chunk.js",
+    "static/css/main.971b2397.chunk.css",
+    "static/js/main.4d07d916.chunk.js"
+  ]
+}
